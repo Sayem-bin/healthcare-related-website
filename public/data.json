@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Routine Exams",
+        "img": "https://i.postimg.cc/MKxm1yK6/d1.jpg",
+        "descriptions": "Regular dental exams are a critical part of preventive health care. During a dental exam, the dentist or hygienist will clean your teeth and check for cavities and gum disease."
+    },
+    {
+        "id": 2,
+        "name": "Dental Hygiene",
+        "img": "https://i.postimg.cc/nLQDyzcS/d2.jpg",
+        "descriptions": "Dental hygienists help to prevent dental decay by cleaning patients' teeth and providing them with education about how to care effectively for their teeth and gums, and the effects of diet on oral health."
+    },
+    {
+        "id": 3,
+        "name": "Dental Fillings",
+        "img": "https://i.postimg.cc/NffrgbjH/d3.jpg",
+        "descriptions": "Dental fillings are a hard substance used to repair teeth by filling in holes that have been caused by damage to the tooth. Dental fillings cannot completely repair all damage to teeth, but are necessary to replace the tooth structure damaged by tooth decay."
+    },
+    {
+        "id": 4,
+        "name": "Dentures & Veneers",
+        "img": "https://i.postimg.cc/Y02jCqMH/d4.jpg",
+        "descriptions": "The primary difference between veneers and dentures is that veneers attach to the front of existing teeth while veneers replace missing teeth. Also, dentures are removable while veneers are permanent once applied."
+    },
+    {
+        "id": 5,
+        "name": "Emergency Dentistry",
+        "img": "https://i.postimg.cc/vTS88r0r/d5.jpg",
+        "descriptions": "In general, any dental problem that needs immediate treatment to stop bleeding, alleviate severe pain, or save a tooth is considered an emergency."
+    },
+    {
+        "id": 5,
+        "name": "Teeth Whitening",
+        "img": "https://i.postimg.cc/t46RyVW6/d6-2.jpg",
+        "descriptions": "Teeth whitening involves bleaching your teeth to make them lighter. It can't make your teeth brilliant white, but it can lighten the existing colour by several shades."
+    }
+]

@@ -1,0 +1,13 @@
+.about{
+    display:grid;  
+    grid-template-columns: repeat(2,2fr);
+    grid-gap: 10px;
+    
+    margin: 10px;
+    text-align: justify;
+    
+    
+    
+}
+
+    

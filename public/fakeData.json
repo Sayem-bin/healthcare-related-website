@@ -1,0 +1,22 @@
+[
+    {
+        "img": "https://i.ibb.co/b38Zq3n/difference-between-endodontist-vs-dentist.jpg",
+        "name": "Dr. Janet Johnson",
+        "specialist": "Tooth Specialist"
+    },
+    {
+        "img": "https://i.ibb.co/nmDYTZg/Picture-of-young-woman-doctor-dentist-who-analysis-dental-x-ray-orthopantomogram-Dental-panoramic-ra.jpg",
+        "name": "Dr. Joao Pedros",
+        "specialist": "Orthodontist"
+    },
+    {
+        "img": "https://i.ibb.co/ZYKMv94/At-the-dentist-office.jpg",
+        "name": "Dr. Charles Smith",
+        "specialist": "Hygienist"
+    },
+    {
+        "img": "https://i.ibb.co/9nGqhYn/Photo-of-smiling-dentist-standing-with-arms-crossed-with-her-colleague-showing-okay-sign.jpg",
+        "name": "Dr. Salman",
+        "specialist": "Maxillofacial Surgeons"
+    }
+]
